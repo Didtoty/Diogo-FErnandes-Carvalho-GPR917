@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: 551075fb4f58b4d4a822973d1888607c
+timeCreated: 1511991848
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 2 - Archer_0
+    21300002: PC Computer - Heroes of Might and Magic 2 - Archer_1
+    21300004: PC Computer - Heroes of Might and Magic 2 - Archer_2
+    21300006: PC Computer - Heroes of Might and Magic 2 - Archer_3
+    21300008: PC Computer - Heroes of Might and Magic 2 - Archer_4
+    21300010: PC Computer - Heroes of Might and Magic 2 - Archer_5
+    21300012: PC Computer - Heroes of Might and Magic 2 - Archer_6
+    21300014: PC Computer - Heroes of Might and Magic 2 - Archer_7
+    21300016: PC Computer - Heroes of Might and Magic 2 - Archer_8
+    21300018: PC Computer - Heroes of Might and Magic 2 - Archer_9
+    21300020: PC Computer - Heroes of Might and Magic 2 - Archer_10
+    21300022: PC Computer - Heroes of Might and Magic 2 - Archer_11
+    21300024: PC Computer - Heroes of Might and Magic 2 - Archer_12
+    21300026: PC Computer - Heroes of Might and Magic 2 - Archer_13
+    21300028: PC Computer - Heroes of Might and Magic 2 - Archer_14
+    21300030: PC Computer - Heroes of Might and Magic 2 - Archer_15
+    21300032: PC Computer - Heroes of Might and Magic 2 - Archer_16
+    21300034: PC Computer - Heroes of Might and Magic 2 - Archer_17
+    21300036: PC Computer - Heroes of Might and Magic 2 - Archer_18
+    21300038: PC Computer - Heroes of Might and Magic 2 - Archer_19
+    21300040: PC Computer - Heroes of Might and Magic 2 - Archer_20
+    21300042: PC Computer - Heroes of Might and Magic 2 - Archer_21
+    21300044: PC Computer - Heroes of Might and Magic 2 - Archer_22
+    21300046: PC Computer - Heroes of Might and Magic 2 - Archer_23
+    21300048: PC Computer - Heroes of Might and Magic 2 - Archer_24
+    21300050: PC Computer - Heroes of Might and Magic 2 - Archer_25
+    21300052: PC Computer - Heroes of Might and Magic 2 - Archer_26
+    21300054: PC Computer - Heroes of Might and Magic 2 - Archer_27
+    21300056: PC Computer - Heroes of Might and Magic 2 - Archer_28
+    21300058: PC Computer - Heroes of Might and Magic 2 - Archer_29
+    21300060: PC Computer - Heroes of Might and Magic 2 - Archer_30
+    21300062: PC Computer - Heroes of Might and Magic 2 - Archer_31
+    21300064: PC Computer - Heroes of Might and Magic 2 - Archer_32
+    21300066: PC Computer - Heroes of Might and Magic 2 - Archer_33
+    21300068: PC Computer - Heroes of Might and Magic 2 - Archer_34
+    21300070: PC Computer - Heroes of Might and Magic 2 - Archer_35
+    21300072: PC Computer - Heroes of Might and Magic 2 - Archer_36
+    21300074: PC Computer - Heroes of Might and Magic 2 - Archer_37
+    21300076: PC Computer - Heroes of Might and Magic 2 - Archer_38
+    21300078: PC Computer - Heroes of Might and Magic 2 - Archer_39
+    21300080: PC Computer - Heroes of Might and Magic 2 - Archer_40
+    21300082: PC Computer - Heroes of Might and Magic 2 - Archer_41
+    21300084: PC Computer - Heroes of Might and Magic 2 - Archer_42
+    21300086: PC Computer - Heroes of Might and Magic 2 - Archer_43
+    21300088: PC Computer - Heroes of Might and Magic 2 - Archer_44
+    21300090: PC Computer - Heroes of Might and Magic 2 - Archer_45
+    21300092: PC Computer - Heroes of Might and Magic 2 - Archer_46
+    21300094: PC Computer - Heroes of Might and Magic 2 - Archer_47
+    21300096: PC Computer - Heroes of Might and Magic 2 - Archer_48
+    21300098: PC Computer - Heroes of Might and Magic 2 - Archer_49
+    21300100: PC Computer - Heroes of Might and Magic 2 - Archer_50
+    21300102: PC Computer - Heroes of Might and Magic 2 - Archer_51
+    21300104: PC Computer - Heroes of Might and Magic 2 - Archer_52
+    21300106: PC Computer - Heroes of Might and Magic 2 - Archer_53
+    21300108: PC Computer - Heroes of Might and Magic 2 - Archer_54
+    21300110: PC Computer - Heroes of Might and Magic 2 - Archer_55
+    21300112: PC Computer - Heroes of Might and Magic 2 - Archer_56
+    21300114: PC Computer - Heroes of Might and Magic 2 - Archer_57
+    21300116: PC Computer - Heroes of Might and Magic 2 - Archer_58
+    21300118: PC Computer - Heroes of Might and Magic 2 - Archer_59
+    21300120: PC Computer - Heroes of Might and Magic 2 - Archer_60
+    21300122: PC Computer - Heroes of Might and Magic 2 - Archer_61
+    21300124: PC Computer - Heroes of Might and Magic 2 - Archer_62
+    21300126: PC Computer - Heroes of Might and Magic 2 - Archer_63
+    21300128: PC Computer - Heroes of Might and Magic 2 - Archer_64
+    21300130: PC Computer - Heroes of Might and Magic 2 - Archer_65
+    21300132: PC Computer - Heroes of Might and Magic 2 - Archer_66
+    21300134: PC Computer - Heroes of Might and Magic 2 - Archer_67
+    21300136: PC Computer - Heroes of Might and Magic 2 - Archer_68
+    21300138: PC Computer - Heroes of Might and Magic 2 - Archer_69
+    21300140: PC Computer - Heroes of Might and Magic 2 - Archer_70
+    21300142: PC Computer - Heroes of Might and Magic 2 - Archer_71
+    21300144: PC Computer - Heroes of Might and Magic 2 - Archer_72
+    21300146: PC Computer - Heroes of Might and Magic 2 - Archer_73
+    21300148: PC Computer - Heroes of Might and Magic 2 - Archer_74
+    21300150: PC Computer - Heroes of Might and Magic 2 - Archer_75
+    21300152: PC Computer - Heroes of Might and Magic 2 - Archer_76
+    21300154: PC Computer - Heroes of Might and Magic 2 - Archer_77
+    21300156: PC Computer - Heroes of Might and Magic 2 - Archer_78
+    21300158: PC Computer - Heroes of Might and Magic 2 - Archer_79
+    21300160: PC Computer - Heroes of Might and Magic 2 - Archer_80
+    21300162: PC Computer - Heroes of Might and Magic 2 - Archer_81
+    21300164: PC Computer - Heroes of Might and Magic 2 - Archer_82
+    21300166: PC Computer - Heroes of Might and Magic 2 - Archer_83
+    21300168: PC Computer - Heroes of Might and Magic 2 - Archer_84
+    21300170: PC Computer - Heroes of Might and Magic 2 - Archer_85
+    21300172: PC Computer - Heroes of Might and Magic 2 - Archer_86
+    21300174: PC Computer - Heroes of Might and Magic 2 - Archer_87
+    21300176: PC Computer - Heroes of Might and Magic 2 - Archer_88
+    21300178: PC Computer - Heroes of Might and Magic 2 - Archer_89
+    21300180: PC Computer - Heroes of Might and Magic 2 - Archer_90
+    21300182: PC Computer - Heroes of Might and Magic 2 - Archer_91
+    21300184: PC Computer - Heroes of Might and Magic 2 - Archer_92
+    21300186: PC Computer - Heroes of Might and Magic 2 - Archer_93
+    21300188: PC Computer - Heroes of Might and Magic 2 - Archer_94
+    21300190: PC Computer - Heroes of Might and Magic 2 - Archer_95
+    21300192: PC Computer - Heroes of Might and Magic 2 - Archer_96
+    21300194: PC Computer - Heroes of Might and Magic 2 - Archer_97
+    21300196: PC Computer - Heroes of Might and Magic 2 - Archer_98
+    21300198: PC Computer - Heroes of Might and Magic 2 - Archer_99
+    21300200: PC Computer - Heroes of Might and Magic 2 - Archer_100
+    21300202: PC Computer - Heroes of Might and Magic 2 - Archer_101
+    21300204: PC Computer - Heroes of Might and Magic 2 - Archer_102
+    21300206: PC Computer - Heroes of Might and Magic 2 - Archer_103
+    21300208: PC Computer - Heroes of Might and Magic 2 - Archer_104
+    21300210: PC Computer - Heroes of Might and Magic 2 - Archer_105
+    21300212: PC Computer - Heroes of Might and Magic 2 - Archer_106
+    21300214: PC Computer - Heroes of Might and Magic 2 - Archer_107
+    21300216: PC Computer - Heroes of Might and Magic 2 - Archer_108
+    21300218: PC Computer - Heroes of Might and Magic 2 - Archer_109
+    21300220: PC Computer - Heroes of Might and Magic 2 - Archer_110
+    21300222: PC Computer - Heroes of Might and Magic 2 - Archer_111
+    21300224: PC Computer - Heroes of Might and Magic 2 - Archer_112
+    21300226: PC Computer - Heroes of Might and Magic 2 - Archer_113
+    21300228: PC Computer - Heroes of Might and Magic 2 - Archer_114
+    21300230: PC Computer - Heroes of Might and Magic 2 - Archer_115
+    21300232: PC Computer - Heroes of Might and Magic 2 - Archer_116
+    21300234: PC Computer - Heroes of Might and Magic 2 - Archer_117
+    21300236: PC Computer - Heroes of Might and Magic 2 - Archer_118
+    21300238: PC Computer - Heroes of Might and Magic 2 - Archer_119
+    21300240: PC Computer - Heroes of Might and Magic 2 - Archer_120
+    21300242: PC Computer - Heroes of Might and Magic 2 - Archer_121
+    21300244: PC Computer - Heroes of Might and Magic 2 - Archer_122
+    21300246: PC Computer - Heroes of Might and Magic 2 - Archer_123
+    21300248: PC Computer - Heroes of Might and Magic 2 - Archer_124
+    21300250: PC Computer - Heroes of Might and Magic 2 - Archer_125
+    21300252: PC Computer - Heroes of Might and Magic 2 - Archer_126
+    21300254: PC Computer - Heroes of Might and Magic 2 - Archer_127
+    21300256: PC Computer - Heroes of Might and Magic 2 - Archer_128
+    21300258: PC Computer - Heroes of Might and Magic 2 - Archer_129
+    21300260: PC Computer - Heroes of Might and Magic 2 - Archer_130
+    21300262: PC Computer - Heroes of Might and Magic 2 - Archer_131
+    21300264: PC Computer - Heroes of Might and Magic 2 - Archer_132
+    21300266: PC Computer - Heroes of Might and Magic 2 - Archer_133
+    21300268: PC Computer - Heroes of Might and Magic 2 - Archer_134
+    21300270: PC Computer - Heroes of Might and Magic 2 - Archer_135
+    21300272: PC Computer - Heroes of Might and Magic 2 - Archer_136
+    21300274: PC Computer - Heroes of Might and Magic 2 - Archer_137
+    21300276: PC Computer - Heroes of Might and Magic 2 - Archer_138
+    21300278: PC Computer - Heroes of Might and Magic 2 - Archer_139
+    21300280: PC Computer - Heroes of Might and Magic 2 - Archer_140
+    21300282: PC Computer - Heroes of Might and Magic 2 - Archer_141
+    21300284: PC Computer - Heroes of Might and Magic 2 - Archer_142
+    21300286: PC Computer - Heroes of Might and Magic 2 - Archer_143
+    21300288: PC Computer - Heroes of Might and Magic 2 - Archer_144
+    21300290: PC Computer - Heroes of Might and Magic 2 - Archer_145
+    21300292: PC Computer - Heroes of Might and Magic 2 - Archer_146
+    21300294: PC Computer - Heroes of Might and Magic 2 - Archer_147
+    21300296: PC Computer - Heroes of Might and Magic 2 - Archer_148
+    21300298: PC Computer - Heroes of Might and Magic 2 - Archer_149
+    21300300: PC Computer - Heroes of Might and Magic 2 - Archer_150
+    21300302: PC Computer - Heroes of Might and Magic 2 - Archer_151
+    21300304: PC Computer - Heroes of Might and Magic 2 - Archer_152
+    21300306: PC Computer - Heroes of Might and Magic 2 - Archer_153
+    21300308: PC Computer - Heroes of Might and Magic 2 - Archer_154
+    21300310: PC Computer - Heroes of Might and Magic 2 - Archer_155
+    21300312: PC Computer - Heroes of Might and Magic 2 - Archer_156
+    21300314: PC Computer - Heroes of Might and Magic 2 - Archer_157
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 343
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 343
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 343
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 343
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 343
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 343
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 344
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 344
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 344
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 343
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_11
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 343
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 372
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_13
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 369
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_14
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 369
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_15
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_16
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 372
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 372
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_18
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 369
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_19
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 316
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_20
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 354
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_21
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 351
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_22
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 354
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_23
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 354
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 354
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_25
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 338
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_26
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 338
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_27
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 338
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_28
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 338
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_29
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 335
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_30
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 338
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_31
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 338
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_32
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 338
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_33
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 336
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_34
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 335
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_35
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 338
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_36
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 338
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_37
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 338
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_38
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 338
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_39
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 338
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_40
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 319
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_41
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_42
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_43
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_44
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_45
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 319
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_46
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_48
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_49
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_50
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_51
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_52
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 322
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 248
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_54
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 248
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 247
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_56
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 254
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 254
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 255
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 256
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_60
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 292
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_61
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 292
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 292
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_63
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 292
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_64
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 292
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_65
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 292
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_66
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 256
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_67
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 256
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_68
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 275
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_69
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_70
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 275
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_71
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_72
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_73
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 275
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_74
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_75
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 275
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_76
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 275
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_77
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 272
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_78
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 275
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_79
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 275
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_80
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_81
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_82
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 275
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_83
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 275
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_84
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_85
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 272
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_86
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_87
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 259
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_88
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 272
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_89
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 275
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_90
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 275
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_91
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 275
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_92
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 272
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_93
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_94
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_95
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 257
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_96
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_97
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 259
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_98
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 259
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_99
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 256
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_100
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 259
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_101
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 259
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_102
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 259
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_103
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 259
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_104
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 259
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_105
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_106
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_107
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_108
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 257
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_109
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 259
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_110
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_111
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 259
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_113
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_114
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 158
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_115
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 158
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_116
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 158
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_117
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 158
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_118
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 158
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_119
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 158
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_120
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 158
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_121
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 158
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_122
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 158
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_123
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 158
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_124
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 158
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_125
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 157
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_126
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 157
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_127
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 158
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 65
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_129
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_130
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 65
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_131
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 65
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_132
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 65
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_133
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 65
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_134
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 65
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_135
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_136
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 65
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_137
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 66
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_138
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 61
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_139
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 107
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_140
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 109
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_141
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 112
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_142
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 116
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_144
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 60
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_145
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 72
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_146
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 69
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_147
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 68
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_148
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 63
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_149
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 58
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_150
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_151
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 8
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_152
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_153
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 8
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_154
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 8
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_155
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_156
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 8
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Archer_157
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 8
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
